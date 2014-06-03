@@ -9,6 +9,7 @@ Ehm, la idea del repositorio es compartir las porciones de código de una manera
 Actualmente no se indica la distribución de un ejecutable ya que se requiere personalizar una clase para la carga de los excel.
 
 
+
 ## Cómo utilizar? ##
 
 ### Resumen ###
@@ -29,10 +30,10 @@ Básicamente es descargar los fuentes y compilar/ejecutar el proyecto. De presen
 No requiere configuración adicional de ningún tipo.
 
 
-* Dependencias
+### Dependencias ###
 
-- Filehelper para carga de archivos.
-- JSON para una funcionalidad extra añadida para beneficio del Portal.
+* Filehelper para carga de archivos.
+* JSON para una funcionalidad extra añadida para beneficio del Portal.
 
 
 ### Notas ###
@@ -40,4 +41,3 @@ No requiere configuración adicional de ningún tipo.
 A excepción de las políticias de Microsoft sobre sus productos y sistemas, todo lo demás son artefactos Freeware u Open Source.
 
 Los paquetes/librerías de las que hace uso la herramienta, disponen de sus propias licencias.
-
